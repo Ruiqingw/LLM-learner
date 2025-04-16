@@ -17,9 +17,9 @@
 ## 使用方法
 
 1. 克隆此仓库：
-    ```bash
-    git clone https://github.com/your-username/LLM_Learner.git
-    ```
+   ```bash
+   git clone https://github.com/your-username/LLM_Learner.git
+   ```
 2. 浏览文件夹以查看笔记、资源和代码。
 3. 通过添加自己的发现或改进来贡献内容。
 
